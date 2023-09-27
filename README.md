@@ -1,4 +1,4 @@
-# mimetismoecamuflagem
+# mimetismo e camuflagem
 Site destinado apresentar os mimetismos e camuflagens mais curiosos do mundo animal! 
 
 ## Quem está desenvolvendo este projeto?
