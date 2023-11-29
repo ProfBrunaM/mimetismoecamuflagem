@@ -73,3 +73,7 @@ a:active{
     justify-content:space-around;
 }
 
+.cabecalho-item {
+    display: inline-block;
+}
+
