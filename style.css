@@ -61,14 +61,15 @@ a:active{
     border-radius: 10px;
 }
 
-.cabeçalho-imagem{
+.cabecalho-imagem{
     width:10%;
     height:10%;
 }
 
-.cabeçalho{
+.cabecalho{
     background-color:aquamarine;
     color:aliceblue;
     display: flex;
     justify-content:space-around;
 }
+
