@@ -31,8 +31,14 @@ h1{
 }
 header{
     padding:20px;
-    background-color:#ff7300;
-    border-bottom:#00425A;
+    background-color:#00425A;
+    border-bottom:#008ec2;
     color:rgb(255, 255, 255);
     font-size: 32px;
+}
+
+#menu{
+    font-size: 15px;
+    color:antiquewhite;
+    
 }
