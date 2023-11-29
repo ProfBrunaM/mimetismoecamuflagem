@@ -52,3 +52,11 @@ a:hover{
 a:active{
     color:aquamarine
 }
+
+#banner{
+    width:40%;
+    padding:5px;
+    background-color:#328dad;
+    margin: 26px;
+    border-radius: 10px;
+}
