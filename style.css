@@ -43,3 +43,11 @@ header{
     color:antiquewhite;
     
 }
+
+a:hover{
+    color:antiquewhite
+}
+
+a:active{
+    color:aquamarine
+}
