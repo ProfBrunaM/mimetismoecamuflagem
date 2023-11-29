@@ -65,3 +65,10 @@ a:active{
     width:10%;
     height:10%;
 }
+
+.cabeçalho{
+    background-color:aquamarine;
+    color:aliceblue;
+    display: flex;
+    justify-content:space-around;
+}
