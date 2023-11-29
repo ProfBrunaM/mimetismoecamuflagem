@@ -60,3 +60,8 @@ a:active{
     margin: 26px;
     border-radius: 10px;
 }
+
+.cabeçalho-imagem{
+    width:10%;
+    height:10%;
+}
